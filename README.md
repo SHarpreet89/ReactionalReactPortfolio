@@ -39,7 +39,7 @@ WHEN I view the footer, THEN I see links to the developer’s GitHub, LinkedIn p
 
 ## App Repository Link
 
-https://github.com/SHarpreet89/Week2_Portfolio_Website
+https://github.com/SHarpreet89/ReactionalReactPortfolio
 
 ## Contact me
 
